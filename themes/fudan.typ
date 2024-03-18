@@ -2,8 +2,7 @@
 // https://github.com/MarkBlyth
 
 
-#import "polylux/logic.typ"
-#import "polylux/helpers.typ"
+#import "@preview/polylux:0.3.1": *
 
 #let fudan-footer = state("fudan-footer", [])
 #let fudan-short-title = state("fudan-short-title", none)
@@ -198,7 +197,7 @@
     show: block.with(stroke: ( bottom: 1mm + color ), inset: 1em,)
     set text(size: 1.5em)
     strong(name)
-    helpers.register-section(name)
+    utils.register-section(name)
   })
   logic.polylux-slide(content)
 }
