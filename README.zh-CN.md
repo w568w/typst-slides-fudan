@@ -21,11 +21,11 @@
 
 ```shell
 # 如果你安装了 Git：
-git clone https://github.com/w568w/typst-slides-fudan.git
+git clone https://github.com/FDUCSLG/typst-slides-fudan.git
 # 或，如果你安装了 GitHub CLI：
-gh repo clone w568w/typst-slides-fudan
+gh repo clone FDUCSLG/typst-slides-fudan
 # 或，如果你配置了 Git over SSH：
-git clone git@github.com:w568w/typst-slides-fudan.git
+git clone git@github.com:FDUCSLG/typst-slides-fudan.git
 ```
 
 如果你都没有安装，可以单击仓库页面上的 `Code` 按钮，然后单击 `Download ZIP` 下载本仓库的压缩包，解压后即可使用。

@@ -21,11 +21,11 @@ If you use the `typst` command line tool, clone this repository:
 
 ```shell
 # If you have installed Git:
-git clone https://github.com/w568w/typst-slides-fudan.git
+git clone https://github.com/FDUCSLG/typst-slides-fudan.git
 # Or, if you have installed GitHub CLI:
-gh repo clone w568w/typst-slides-fudan
+gh repo clone FDUCSLG/typst-slides-fudan
 # Or, if you have configured Git over SSH:
-git clone git@github.com:w568w/typst-slides-fudan.git
+git clone git@github.com:FDUCSLG/typst-slides-fudan.git
 ```
 
 Additionally, you can click the `Code` button on the repository page, and then click `Download ZIP` to download a compressed version of this repository, and unzip it to use.
