@@ -1,7 +1,7 @@
 **Language**: \[English\] [\[简体中文\]](README.zh-CN.md)
 
 # Fudan Theme for Typst Slides
-This project is a [Typst](https://typst.app/) slide template based on the [Polylux](https://andreaskroepelin.github.io/polylux/book/polylux.html) library and its official theme [Clean](https://github.com/andreasKroepelin/polylux/blob/9184eeff02c5d03368b21024486ad2a2b8f65e0c/themes/clean.typ).
+This project is a [Typst](https://typst.app/) slide template based on the [Polylux](https://polylux.dev/book/polylux.html) library and its official theme [Clean](https://github.com/andreasKroepelin/polylux/blob/9184eeff02c5d03368b21024486ad2a2b8f65e0c/themes/clean.typ).
 
 ## Preview
 ![Preview 1](images/demo-1.png)

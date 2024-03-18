@@ -1,7 +1,7 @@
 **Language**: [\[English\]](README.md) \[简体中文\]
 
 # 复旦主题的 Typst 幻灯片模板
-本项目是一个复旦主题的 [Typst](https://typst.app/) 幻灯片模板，依赖于 [Polylux](https://andreaskroepelin.github.io/polylux/book/polylux.html) 库，基于其官方主题 [Clean](https://github.com/andreasKroepelin/polylux/blob/9184eeff02c5d03368b21024486ad2a2b8f65e0c/themes/clean.typ)。
+本项目是一个复旦主题的 [Typst](https://typst.app/) 幻灯片模板，依赖于 [Polylux](https://polylux.dev/book/polylux.html) 库，基于其官方主题 [Clean](https://github.com/andreasKroepelin/polylux/blob/9184eeff02c5d03368b21024486ad2a2b8f65e0c/themes/clean.typ)。
 
 ## 预览
 ![预览1](images/demo-1.png)
