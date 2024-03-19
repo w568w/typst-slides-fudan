@@ -134,10 +134,10 @@
         align(horizon + right, grid(
           columns: 1, rows: 1em, gutter: .5em,
           short-title,
-          helpers.current-section
+          utils.current-section
         ))
       } else {
-        align(horizon + right, helpers.current-section)
+        align(horizon + right, utils.current-section)
       }
     )
   }))
